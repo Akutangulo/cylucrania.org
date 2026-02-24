@@ -18,8 +18,6 @@ Este sitio web fue desarrollado y mantenido de manera altruista durante 4 años 
 ## 🚀 Tecnologías Utilizadas
 
 * HTML5 / CSS3 / JavaScript
-* [Añade aquí si usas algún framework como Bootstrap, React, Vue, o si es WordPress]
-* Alojamiento: [Menciona si estaba en algún hosting específico o si es estático]
 
 ## 🛠️ Instalación y Uso
 
